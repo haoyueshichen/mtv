@@ -12,7 +12,8 @@
 "spider":"https://haoyueshichen.github.io/mtv/baddychen/baddychen.jar",
 
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":[
-"proxy://do=live&type=txt&ext=Y2xhbjovL2JhZGR5Y2hlbjA2MDgvdHYvbGl2ZS50eHQ="
+"base64(https://haoyueshichen.github.io/mtv/baddychen/tv/live.txt)=Y2xhbjovL2JhZGR5Y2hlbjA2MDgvdHYvbGl2ZS50eHQ=="
+//"proxy://do=live&type=txt&ext=Y2xhbjovL2JhZGR5Y2hlbjA2MDgvdHYvbGl2ZS50eHQ="
 ]}]}],
 
 
